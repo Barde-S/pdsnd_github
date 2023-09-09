@@ -1,7 +1,7 @@
 # BikeShare Data Analysis
 
 This Python script, `bikeshare.py`, allows users to explore bike-sharing data from three major cities in the United States: Chicago, New York City, and Washington. It provides various insights and statistics based on user input, such as city, month, and day.
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
