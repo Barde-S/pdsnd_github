@@ -1,1 +1,5 @@
-.github/**
+# Ignore system and executable files
+*.exe
+/bin/
+/sbin/
+/usr/
