@@ -1,4 +1,5 @@
 # Ignore system and executable files
+*.csv
 *.exe
 /bin/
 /sbin/
